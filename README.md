@@ -1,6 +1,6 @@
 # Surfs Up Overview
 
-The purpose of the analysis is the help the board determine if the range of temperatures in Oahu throughut the year will be conducive to a successful surf and ice cream shop.  We will examine the daily temperatures June and December for all the years availbale in the data set.
+The purpose of this analysis is the help the board determine if the range of temperatures in Oahu throughut the year will be conducive to a successful surf and ice cream shop.  We will examine the daily temperatures June and December for all the years availbale in the data set, 2010 thru 2017.
 
 # Results
 ![June](/Resources/JuneTemps.png)  ![Dec](/Resources/DecTemps.png)<br>
@@ -11,4 +11,4 @@ The purpose of the analysis is the help the board determine if the range of temp
 
 # Summary
  
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+Althought it is true that the weather in Decemer is slighly cooler and more vairable than June, the results show that the weather in December is fairly siliar to the weather in June from a board perspective.  There will likely be fewer good weather days in December, but there will still be many good days for surfing and ice cream.  
