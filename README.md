@@ -24,3 +24,9 @@ We can refine and improve the comparison between the two months in a number of w
 - We can assume that days with a lot of rain will not be good for sales.  The precipitation data exists in the measurements table.  We can query that data to produce precipitation results like those we have produced for temperature.
 - We can define a minimum temperature and maximum, perhaps 0, rainfall which constitute a 'good' day.  We can then query the data and count the good days in June vs December for each station over the eight available years.  
 - Our surf shop will likely be on the beach at sea level.  The location and elevation of the each weather station is different.  We can use that data and perform a new query with the results restricted to stations that are representative of our location.
+
+# Tools used
+- python, pandas
+- matplotlib
+- sqlalchemy
+- numpy
